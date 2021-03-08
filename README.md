@@ -1,6 +1,5 @@
 
 ## Vue-Dynamic-Blog
-```bash
 $ This-Blog-Use-Vue-Dynamic-Api-Pages
 $ made a sample application to dynamically link vue pages via api.
 
