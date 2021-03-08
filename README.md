@@ -19,6 +19,9 @@ $ npm run start
 
 # generate static project
 $ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+'''
+##This App Use:
+1)Npm
+2)Vue
+3)Nuxt
+4)Example Api System (https://api.nuxtjs.dev/mountains)
