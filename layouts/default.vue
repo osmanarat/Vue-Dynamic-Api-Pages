@@ -10,6 +10,7 @@
         </li>
       </ul>
     </nav>
+    
     <main>
       <img src="~/assets/logo.svg" />
       <Nuxt />
