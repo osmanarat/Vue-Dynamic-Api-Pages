@@ -4,13 +4,13 @@
     <!-- <p> <img style="width:300px; height:300px;" :src="image"> </p> -->
     <p> {{description}}</p>
   <div>
-    <p><strong>Continent:</strong> {{ continent }}</p>
-    <p><strong>Mountain:</strong> {{ mountain }}</p>
+    <p><strong>Özet:</strong> {{ continent }}</p>
+    <p><strong>Ad:</strong> {{ mountain }}</p>
     <p><strong>Path:</strong> {{ $route.path }}</p>
     </div>
 
 
-    <NuxtLink to="/">Back to Mountains</NuxtLink>
+    <NuxtLink to="/">Geri Dön</NuxtLink>
   </div>
 </template>
 <script>
