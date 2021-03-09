@@ -26,3 +26,6 @@ $ npm run generate
 2)Vue
 3)Nuxt
 4)Example Api System (https://api.nuxtjs.dev/mountains)
+
+use this doc for api
+https://www.dropbox.com/s/90xue1qsdhl9v4v/php-rest-api-crud.zip?dl=0
